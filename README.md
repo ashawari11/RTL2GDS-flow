@@ -10,6 +10,7 @@ Then go to following directory-
 Desktop/work/tools/openlane_working_dir/openlane
 
 <img width="622" alt="image" src="https://github.com/ashawari11/RTL2GDS-flow/assets/113604711/3d32c46e-aa39-437b-90d1-da671e9ac14e">
+
 Type command "docker" on the terminal
 Then run the below command to invoke the openlane tool 
 "./flow.tcl -interactive" 
